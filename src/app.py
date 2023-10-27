@@ -13,3 +13,5 @@ load_dotenv()
 # 3) Execute the SQL sentences to insert your data using the SQLAlchemy's execute function
 
 # 4) Use pandas to print one of the tables as dataframes using read_sql function
+
+# This is a test
